@@ -83,7 +83,7 @@
 
 ## 📊 GitHub Interactive Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachintanwar2206&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sachintanwar2206&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="165" />
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sachintanwar2206&theme=radical&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=sachintanwar2206&theme=radical&hide_border=true&count_private=true" height="165" />
 </p>
 
 ---
@@ -109,4 +109,5 @@
 
 ---
 > _"AI won’t replace people, but people using AI will replace people not using AI."_
+
 
