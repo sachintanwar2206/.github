@@ -76,9 +76,8 @@
 ---
 
 ## 📌 AI-Focused Featured Projects
-🔹 **[Github Copilot PlotView](https://github.com/sachintanwar2206/github-copilot-plotview)** – Power BI dashboard for GitHub Copilot usage analytics.  
-🔹 **[Excel AI Automation Scripts](https://github.com/sachintanwar2206)** – Python + AI utilities for automating business & stock market reports.  
-🔹 **[AI Chatbot POC](https://github.com/sachintanwar2206)** – Chat playground with cost tracking, context insights, and LangChain document Q&A.
+🔹 **[Chat4Free](https://github.com/sachintanwar2206/chat4free-local-ai)** – Local AI chatbot powered by open-source LLMs (LLaMA2, Mistral, GPT4All, etc.) with zero cost, privacy-first conversations.  
+🔹 **[Github Copilot PlotView](https://github.com/sachintanwar2206/github-copilot-plotview)** – Power BI dashboard for GitHub Copilot usage analytics.
 
 ---
 
@@ -110,3 +109,4 @@
 
 ---
 > _"AI won’t replace people, but people using AI will replace people not using AI."_
+
